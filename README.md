@@ -52,7 +52,7 @@
 
 Focused on **data analysis, business intelligence, and data-driven decision making** using modern analytical and visualization tools.
 
----
+
 
 ## 💻 Tech & Tools ⚡
 
@@ -64,7 +64,30 @@ Focused on **data analysis, business intelligence, and data-driven decision maki
   <img src="https://img.shields.io/badge/Quartus-0071C5.svg?style=plastic&logo=intel&logoColor=white" height="26">
 </p>
 
+## 🔥 Featured Projects
+
+[![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-BI-blue)](https://github.com/ASHADRI/BusinessIntelligence)  
+◻️ **De Prati** – Implementé metodología de BI, KPIs y análisis de datos para reducir el abandono de carrito. 
+📅 *24/11/2025*
+ 
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://github.com/ASHADRI/Project-SafeClaim_PYTHON)  
+◻️ **Project SafeClaim** – Análisis de reclamaciones de seguros para detectar patrones, comportamientos y posibles fraudes. 
+📅 *13/11/2025*
+
+
+
+[![SQL](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql&logoColor=white)](https://github.com/ASHADRI/Gesti-n-de-Residuos-en-Urbanizaciones-Cerradas)
+◻️ **Gestión de Residuos** – SQL para identificar patrones de generación y mejorar la eficiencia en la gestión de residuos.  
+📅 *20/09/2025*
+
+ 
+[![Excel](https://img.shields.io/badge/Excel-Data%20Analytics-217346?logo=microsoft-excel&logoColor=white)](https://github.com/ASHADRI/Excel-for-Data-Analytics_Grocery-Sales)
+◻️ **Grocery Sales Analysis** – Dashboards con Excel avanzado para ventas, ROI y clientes.  
+📅 *23/08/2025*
+
 ---
+
 
 ## 🐱🎶 K‑pop & Electricity Vibes
 
