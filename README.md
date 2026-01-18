@@ -19,8 +19,8 @@
 
 ## 🌟 About Me
 
-🎓 Studying **Electrical Engineering** at
-🏫 [ESPOL – Escuela Superior Politécnica del Litoral](https://www.espol.edu.ec/)
+🎓 Studying **Electrical Engineering** at 🏫 [ESPOL – Escuela Superior Politécnica del Litoral](https://www.espol.edu.ec/) 
+📸 [Instagram](https://www.instagram.com/espol1/?hl=es)
 
 💡 I love mixing **electricity, automation, and data** to create smart and efficient solutions — powered by creativity, curiosity, and a little K‑pop energy. 🐱⚡🎶
 
