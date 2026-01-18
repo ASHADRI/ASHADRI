@@ -13,7 +13,6 @@
   <img src="https://raw.githubusercontent.com/ASHADRI/ASHADRI/main/SHOOKI.gif" width="120"/>
   <img src="https://raw.githubusercontent.com/ASHADRI/ASHADRI/main/SHOOKI.gif" width="120"/>
   <img src="https://raw.githubusercontent.com/ASHADRI/ASHADRI/main/SHOOKI.gif" width="120"/>
-  <img src="https://raw.githubusercontent.com/ASHADRI/ASHADRI/main/SHOOKI.gif" width="120"/>
 </p>
 
 ---
@@ -114,6 +113,7 @@ Focused on **data analysis, business intelligence, and data-driven decision maki
 
 ---
 <p align="center">
+  <img src="https://raw.githubusercontent.com/ASHADRI/ASHADRI/main/bt21-koya.gif" width="120"/>
   <img src="https://raw.githubusercontent.com/ASHADRI/ASHADRI/main/bt21-koya.gif" width="120"/>
   <img src="https://raw.githubusercontent.com/ASHADRI/ASHADRI/main/bt21-koya.gif" width="120"/>
   <img src="https://raw.githubusercontent.com/ASHADRI/ASHADRI/main/bt21-koya.gif" width="120"/>
