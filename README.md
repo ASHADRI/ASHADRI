@@ -66,7 +66,7 @@ Focused on **data analysis, business intelligence, and data-driven decision maki
 
 ## 🔥 Featured Projects
 
-[![Data Visualization with Power BI](https://img.shields.io/badge/Business_Intelligence-BI-blue)](https://github.com/ASHADRI/An-lisis-Marketing-PowerBI)
+[![Data Visualization with Power BI](https://img.shields.io/badge/Data_Visualization-BI-blue)](https://github.com/ASHADRI/An-lisis-Marketing-PowerBI)     
 ◻️ **Dashboard Analítico en Power BI** – Implementé un dashboard interactivo con Python y Power BI enfocado en KPIs y storytelling de datos.  
 📅 *31/01/2026*
 
